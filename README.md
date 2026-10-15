@@ -1,4 +1,4 @@
-# 🎵 Music Streaming App
+# Music Streaming App
 
 A Spotify-inspired music player built with HTML, CSS and vanilla JavaScript.
 
@@ -22,10 +22,10 @@ HTML5 · CSS3 · JavaScript (DOM manipulation, Audio API)
 2. Open `index.html` in your browser
 
 ## Screenshot
-![App screenshot](img/screenshot.png)
+![App screenshot](img/music.PNG)
 
 ## Live Demo
-[Add link here]
+[https://musicstreamingapp-orcin.vercel.app/]
 
 ## Future Improvements
 - Add a backend (Node.js + MongoDB) for user accounts and playlists
